@@ -213,6 +213,7 @@ This project is submitted as an academic project for educational purposes.
 
 ## 👤 Author
 
-**YourName**  
+**Utkarsh**  
 Dataset: `student_career_success_dataset.csv` (50,000 records, 29 features)  
-Year: 2025
+Year: 2026
+
